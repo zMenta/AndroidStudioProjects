@@ -9,7 +9,7 @@ import android.widget.TextView
 class MainActivity3 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_2)
+        setContentView(R.layout.activity_3)
         val sum = intent.getParcelableExtra<Sum>("sum")
 
         val text = findViewById<TextView>(R.id.title)
