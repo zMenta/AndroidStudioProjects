@@ -1,5 +1,6 @@
 package com.example.heartattackrisk
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -12,7 +13,10 @@ class MainActivity : AppCompatActivity() {
         val button1 = findViewById<Button>(R.id.button1)
 
         button1.setOnClickListener(){
-
+//            val sum = Sum(0)
+            val intent = Intent(this, MainActivity2::class.java)
+//            intent.putExtra("sum", sum)
+            startActivity(intent)
         }
 
     }
