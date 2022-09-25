@@ -6,7 +6,7 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity2 : AppCompatActivity() {
+class MainActivity3 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_2)
@@ -26,38 +26,38 @@ class MainActivity2 : AppCompatActivity() {
 
             button1.setOnClickListener() {
                 val sum = Sum(sum_value + 1)
-                val intent = Intent(this, MainActivity2::class.java)
+                val intent = Intent(this, MainActivity3::class.java)
                 intent.putExtra("sum", sum)
                 startActivity(intent)
             }
 
             button2.setOnClickListener() {
                 val sum = Sum(sum_value + 2)
-                val intent = Intent(this, MainActivity2::class.java)
+                val intent = Intent(this, MainActivity3::class.java)
                 intent.putExtra("sum", sum)
                 startActivity(intent)
             }
             button3.setOnClickListener() {
                 val sum = Sum(sum_value + 3)
-                val intent = Intent(this, MainActivity2::class.java)
+                val intent = Intent(this, MainActivity3::class.java)
                 intent.putExtra("sum", sum)
                 startActivity(intent)
             }
             button4.setOnClickListener() {
                 val sum = Sum(sum_value + 4)
-                val intent = Intent(this, MainActivity2::class.java)
+                val intent = Intent(this, MainActivity3::class.java)
                 intent.putExtra("sum", sum)
                 startActivity(intent)
             }
             button5.setOnClickListener() {
                 val sum = Sum(sum_value + 6)
-                val intent = Intent(this, MainActivity2::class.java)
+                val intent = Intent(this, MainActivity3::class.java)
                 intent.putExtra("sum", sum)
                 startActivity(intent)
             }
             button6.setOnClickListener() {
                 val sum = Sum(sum_value + 7)
-                val intent = Intent(this, MainActivity2::class.java)
+                val intent = Intent(this, MainActivity3::class.java)
                 intent.putExtra("sum", sum)
                 startActivity(intent)
             }
