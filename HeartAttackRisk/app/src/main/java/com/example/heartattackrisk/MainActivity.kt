@@ -31,6 +31,30 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra("sum", sum)
             startActivity(intent)
         }
+        button3.setOnClickListener() {
+            val sum = Sum(sum_value + 3)
+            val intent = Intent(this, MainActivity2::class.java)
+            intent.putExtra("sum", sum)
+            startActivity(intent)
+        }
+        button4.setOnClickListener() {
+            val sum = Sum(sum_value + 4)
+            val intent = Intent(this, MainActivity2::class.java)
+            intent.putExtra("sum", sum)
+            startActivity(intent)
+        }
+        button5.setOnClickListener() {
+            val sum = Sum(sum_value + 6)
+            val intent = Intent(this, MainActivity2::class.java)
+            intent.putExtra("sum", sum)
+            startActivity(intent)
+        }
+        button6.setOnClickListener() {
+            val sum = Sum(sum_value + 8)
+            val intent = Intent(this, MainActivity2::class.java)
+            intent.putExtra("sum", sum)
+            startActivity(intent)
+        }
 
     }
 }
