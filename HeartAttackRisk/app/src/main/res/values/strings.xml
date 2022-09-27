@@ -24,4 +24,25 @@
     <string name="masculino">Masculino</string>
     <string name="masculino_de_baixa_estatura">Masculino de baixa estatura</string>
     <string name="masculino_de_baixa_estatura_calvo">Masculino de baixa estatura calvo</string>
+    <string name="peso">Peso</string>
+    <string name="inferior_a_2_5kg_peso_normal">Inferior a 2,5kg peso normal</string>
+    <string name="inferior_a_2_3kg_peso_normal_e_2_3_acima">Inferior a 2,3kg peso normal e 2,3 acima</string>
+    <string name="_2_4_9kg_acima_do_peso_normal">2,4 - 9kg acima do peso normal</string>
+    <string name="_9_1_15_9kg_acima_do_peso_normal">9,1 - 15,9kg acima do peso normal</string>
+    <string name="_16_22_9kg_acima_do_peso_normal">16 - 22,9kg acima do peso normal</string>
+    <string name="mais_de_23kg_acima_do_peso_normal">mais de 23kg acima do peso normal</string>
+    <string name="atividade_f_sica">Atividade Física</string>
+    <string name="profissional_e_recreativo_intenso">Profissional e recreativo intenso</string>
+    <string name="profissional_e_recreativo_moderado">Profissional e recreativo moderado</string>
+    <string name="profissional_sedent_rio_e_recreativo_intenso">Profissional sedentário e recreativo intenso</string>
+    <string name="profissional_sedent_rio_e_recreativo_moderado">Profissional sedentário e recreativo moderado</string>
+    <string name="profissional_sedent_rio_e_recreativo_leve">Profissional sedentário e recreativo leve</string>
+    <string name="sedent_rio_completo">Sedentário completo</string>
+    <string name="fumo">Fumo</string>
+    <string name="n_o_fumante">Não fumante</string>
+    <string name="charuto_e_ou_cachimbo">Charuto e/ou cachimbo</string>
+    <string name="_10_cigarros_ou_menos_p_dia">10 cigarros ou menos p/dia</string>
+    <string name="_11_a_20_cigarros_ou_menos_p_dia">11 a 20 cigarros ou menos p/dia</string>
+    <string name="_21_a_30_cigarros_ou_menos_p_dia">21 a 30 cigarros ou menos p/dia</string>
+    <string name="mais_de_31_cigarros_por_dia">mais de 31 cigarros por dia</string>
 </resources>
