@@ -9,4 +9,19 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="_41_a_50_anos">41 a 50 anos</string>
+    <string name="heart_attack_risk_calculator">Heart Attack Risk Calculator</string>
+    <string name="sua_idade">Sua Idade</string>
+    <string name="_21_a_30_anos">21 a 30 anos</string>
+    <string name="_31_a_40_anos">31 a 40 anos</string>
+    <string name="_10_a_20_anos">10 a 20 anos</string>
+    <string name="_51_a_60_anos">51 a 60 anos</string>
+    <string name="acima_de_61">Acima de 61</string>
+    <string name="sexo">Sexo</string>
+    <string name="feminino_menos_que_40_anos">Feminino, menos que 40 anos.</string>
+    <string name="feminino_de_40_a_50_anos">Feminino, de 40 a 50 anos.</string>
+    <string name="feminino_mais_que_50_anos">Feminino, mais que 50 anos.</string>
+    <string name="masculino">Masculino</string>
+    <string name="masculino_de_baixa_estatura">Masculino de baixa estatura</string>
+    <string name="masculino_de_baixa_estatura_calvo">Masculino de baixa estatura calvo</string>
 </resources>
