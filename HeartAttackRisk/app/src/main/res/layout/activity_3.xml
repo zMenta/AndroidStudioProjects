@@ -37,14 +37,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="277dp"
-        android:layout_marginEnd="64dp"
+        android:layout_marginEnd="84dp"
         android:layout_marginBottom="406dp"
-        android:text="@string/inferior_a_2_5kg_peso_normal"
         android:contentDescription="@string/inferior_a_2_5kg_peso_normal"
+        android:text="@string/inferior_a_2_5kg_peso_normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <Button
         android:id="@+id/button2"
@@ -54,11 +54,10 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="138dp"
         android:layout_marginBottom="10dp"
-        android:text="@string/inferior_a_2_3kg_peso_normal_e_2_3_acima"
         android:contentDescription="@string/inferior_a_2_3kg_peso_normal_e_2_3_acima"
+        android:text="@string/inferior_a_2_3kg_peso_normal_e_2_3_acima"
         app:layout_constraintBottom_toTopOf="@+id/button3"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button1" />
 
@@ -70,11 +69,11 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="138dp"
         android:layout_marginBottom="8dp"
-        android:text="@string/_2_4_9kg_acima_do_peso_normal"
         android:contentDescription="@string/_2_4_9kg_acima_do_peso_normal"
+        android:text="@string/_2_4_9kg_acima_do_peso_normal"
         app:layout_constraintBottom_toTopOf="@+id/button4"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintHorizontal_bias="0.568"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
 
@@ -86,11 +85,11 @@
         android:layout_marginTop="3dp"
         android:layout_marginEnd="164dp"
         android:layout_marginBottom="7dp"
-        android:text="@string/_9_1_15_9kg_acima_do_peso_normal"
         android:contentDescription="@string/_9_1_15_9kg_acima_do_peso_normal"
+        android:text="@string/_9_1_15_9kg_acima_do_peso_normal"
         app:layout_constraintBottom_toTopOf="@+id/button5"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.309"
+        app:layout_constraintHorizontal_bias="0.471"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
 
@@ -102,11 +101,11 @@
         android:layout_marginTop="3dp"
         android:layout_marginEnd="138dp"
         android:layout_marginBottom="6dp"
-        android:text="@string/_16_22_9kg_acima_do_peso_normal"
         android:contentDescription="@string/_16_22_9kg_acima_do_peso_normal"
+        android:text="@string/_16_22_9kg_acima_do_peso_normal"
         app:layout_constraintBottom_toTopOf="@+id/button6"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintHorizontal_bias="0.513"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button4" />
 

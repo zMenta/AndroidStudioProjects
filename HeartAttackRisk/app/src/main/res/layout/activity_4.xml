@@ -39,14 +39,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="277dp"
-        android:layout_marginEnd="44dp"
+        android:layout_marginEnd="40dp"
         android:layout_marginBottom="406dp"
-        android:text="@string/profissional_e_recreativo_intenso"
         android:contentDescription="@string/profissional_e_recreativo_intenso"
+        android:text="@string/profissional_e_recreativo_intenso"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.625" />
 
     <Button
         android:id="@+id/button2"
